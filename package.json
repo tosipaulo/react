@@ -1,0 +1,31 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Aula React Modulo I - http://jscasts.teachable.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.16.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosipaulo/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tosipaulo/react/issues"
+  },
+  "homepage": "https://github.com/tosipaulo/react#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-react": "^6.24.1",
+    "react-scripts": "1.0.1",
+    "webpack": "^2.5.1"
+  }
+}
